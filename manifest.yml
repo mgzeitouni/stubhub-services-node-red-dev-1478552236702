@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: stubhub-services-node-red-dev
+  host: stubhub-services-node-red-dev
+  disk_quota: 1024M
+  services:
+  - stubhub-services-node-red-dev-cloudantNoSQLDB
