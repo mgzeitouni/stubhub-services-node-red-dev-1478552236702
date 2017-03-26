@@ -1,0 +1,202 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/Cellar/node/7.6.0/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'shrinkwrap' ]
+2 info using npm@4.1.2
+3 info using node@v7.6.0
+4 info lifecycle node-red-bluemix@0.5.0~preshrinkwrap: node-red-bluemix@0.5.0
+5 silly lifecycle node-red-bluemix@0.5.0~preshrinkwrap: no script for preshrinkwrap, continuing
+6 info lifecycle node-red-bluemix@0.5.0~shrinkwrap: node-red-bluemix@0.5.0
+7 silly lifecycle node-red-bluemix@0.5.0~shrinkwrap: no script for shrinkwrap, continuing
+8 verbose stack Error: Problems were encountered
+8 verbose stack Please correct and try again.
+8 verbose stack missing: when@~3.x, required by node-red-bluemix@0.5.0
+8 verbose stack missing: mongodb@~1.4.x, required by node-red-bluemix@0.5.0
+8 verbose stack missing: nano@~5.11.0, required by node-red-bluemix@0.5.0
+8 verbose stack missing: cfenv@~1.0.0, required by node-red-bluemix@0.5.0
+8 verbose stack missing: feedparser@~0.19.2, required by node-red-bluemix@0.5.0
+8 verbose stack missing: redis@~0.10.1, required by node-red-bluemix@0.5.0
+8 verbose stack missing: node-red@0.16, required by node-red-bluemix@0.5.0
+8 verbose stack missing: node-red-bluemix-nodes@1.x, required by node-red-bluemix@0.5.0
+8 verbose stack missing: node-red-node-watson@0.x, required by node-red-bluemix@0.5.0
+8 verbose stack missing: node-red-node-openwhisk@0.x, required by node-red-bluemix@0.5.0
+8 verbose stack missing: node-red-node-cf-cloudant@0.x, required by node-red-bluemix@0.5.0
+8 verbose stack missing: node-red-contrib-scx-ibmiotapp@0.x, required by node-red-bluemix@0.5.0
+8 verbose stack missing: node-red-contrib-ibmpush@0.x, required by node-red-bluemix@0.5.0
+8 verbose stack missing: node-red-contrib-bluemix-hdfs@0.x, required by node-red-bluemix@0.5.0
+8 verbose stack missing: node-red-nodes-cf-sqldb-dashdb@0.x, required by node-red-bluemix@0.5.0
+8 verbose stack missing: node-red-contrib-ui@1.x, required by node-red-bluemix@0.5.0
+8 verbose stack extraneous: accepts@1.3.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/accepts
+8 verbose stack extraneous: after@0.8.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/after
+8 verbose stack extraneous: arraybuffer.slice@0.0.6 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/arraybuffer.slice
+8 verbose stack extraneous: backo2@1.0.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/backo2
+8 verbose stack extraneous: base64-arraybuffer@0.1.5 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/base64-arraybuffer
+8 verbose stack extraneous: base64id@1.0.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/base64id
+8 verbose stack extraneous: better-assert@1.0.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/better-assert
+8 verbose stack extraneous: blob@0.0.4 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/blob
+8 verbose stack extraneous: callsite@1.0.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/callsite
+8 verbose stack extraneous: component-bind@1.0.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/component-bind
+8 verbose stack extraneous: component-emitter@1.1.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/component-emitter
+8 verbose stack extraneous: component-inherit@0.0.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/component-inherit
+8 verbose stack extraneous: cookie@0.3.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/cookie
+8 verbose stack extraneous: debug@2.6.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/debug
+8 verbose stack extraneous: depd@1.1.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/depd
+8 verbose stack extraneous: destroy@1.0.4 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/destroy
+8 verbose stack extraneous: ee-first@1.1.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/ee-first
+8 verbose stack extraneous: encodeurl@1.0.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/encodeurl
+8 verbose stack extraneous: engine.io@1.8.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/engine.io
+8 verbose stack extraneous: debug@2.3.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/engine.io/node_modules/debug
+8 verbose stack extraneous: engine.io-client@1.8.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/engine.io-client
+8 verbose stack extraneous: component-emitter@1.2.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/engine.io-client/node_modules/component-emitter
+8 verbose stack extraneous: debug@2.3.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/engine.io-client/node_modules/debug
+8 verbose stack extraneous: engine.io-parser@1.3.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/engine.io-parser
+8 verbose stack extraneous: escape-html@1.0.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/escape-html
+8 verbose stack extraneous: etag@1.8.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/etag
+8 verbose stack extraneous: fresh@0.5.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/fresh
+8 verbose stack extraneous: has-binary@0.1.7 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/has-binary
+8 verbose stack extraneous: has-cors@1.1.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/has-cors
+8 verbose stack extraneous: http-errors@1.6.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/http-errors
+8 verbose stack extraneous: indexof@0.0.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/indexof
+8 verbose stack extraneous: inherits@2.0.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/inherits
+8 verbose stack extraneous: isarray@0.0.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/isarray
+8 verbose stack extraneous: json3@3.3.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/json3
+8 verbose stack extraneous: mime@1.3.4 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/mime
+8 verbose stack extraneous: mime-db@1.27.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/mime-db
+8 verbose stack extraneous: mime-types@2.1.15 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/mime-types
+8 verbose stack extraneous: ms@0.7.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/ms
+8 verbose stack extraneous: negotiator@0.6.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/negotiator
+8 verbose stack extraneous: node-red-dashboard@2.3.6 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/node-red-dashboard
+8 verbose stack extraneous: object-assign@4.1.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/object-assign
+8 verbose stack extraneous: object-component@0.0.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/object-component
+8 verbose stack extraneous: on-finished@2.3.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/on-finished
+8 verbose stack extraneous: options@0.0.6 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/options
+8 verbose stack extraneous: parsejson@0.0.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/parsejson
+8 verbose stack extraneous: parseqs@0.0.5 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/parseqs
+8 verbose stack extraneous: parseuri@0.0.5 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/parseuri
+8 verbose stack extraneous: parseurl@1.3.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/parseurl
+8 verbose stack extraneous: range-parser@1.2.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/range-parser
+8 verbose stack extraneous: send@0.15.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/send
+8 verbose stack extraneous: serve-static@1.12.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/serve-static
+8 verbose stack extraneous: setprototypeof@1.0.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/setprototypeof
+8 verbose stack extraneous: socket.io@1.7.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io
+8 verbose stack extraneous: debug@2.3.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io/node_modules/debug
+8 verbose stack extraneous: socket.io-adapter@0.5.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-adapter
+8 verbose stack extraneous: debug@2.3.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-adapter/node_modules/debug
+8 verbose stack extraneous: socket.io-client@1.7.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-client
+8 verbose stack extraneous: component-emitter@1.2.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-client/node_modules/component-emitter
+8 verbose stack extraneous: debug@2.3.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-client/node_modules/debug
+8 verbose stack extraneous: socket.io-parser@2.3.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-parser
+8 verbose stack extraneous: debug@2.2.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-parser/node_modules/debug
+8 verbose stack extraneous: ms@0.7.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-parser/node_modules/ms
+8 verbose stack extraneous: statuses@1.3.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/statuses
+8 verbose stack extraneous: to-array@0.1.4 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/to-array
+8 verbose stack extraneous: ultron@1.0.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/ultron
+8 verbose stack extraneous: ws@1.1.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/ws
+8 verbose stack extraneous: wtf-8@1.0.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/wtf-8
+8 verbose stack extraneous: xmlhttprequest-ssl@1.5.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/xmlhttprequest-ssl
+8 verbose stack extraneous: yeast@0.1.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/yeast
+8 verbose stack     at shrinkwrap_ (/usr/local/lib/node_modules/npm/lib/shrinkwrap.js:128:15)
+8 verbose stack     at Array.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/slide/lib/bind-actor.js:15:8)
+8 verbose stack     at LOOP (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:15:14)
+8 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:18:7
+8 verbose stack     at done (/usr/local/lib/node_modules/npm/lib/utils/lifecycle.js:132:5)
+8 verbose stack     at LOOP (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:7:26)
+8 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:18:7
+8 verbose stack     at /usr/local/lib/node_modules/npm/lib/utils/lifecycle.js:318:20
+8 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/graceful-fs/polyfills.js:284:29
+8 verbose stack     at FSReqWrap.oncomplete (fs.js:114:15)
+9 verbose cwd /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702
+10 error Darwin 16.4.0
+11 error argv "/usr/local/Cellar/node/7.6.0/bin/node" "/usr/local/bin/npm" "shrinkwrap"
+12 error node v7.6.0
+13 error npm  v4.1.2
+14 error Problems were encountered
+14 error Please correct and try again.
+14 error missing: when@~3.x, required by node-red-bluemix@0.5.0
+14 error missing: mongodb@~1.4.x, required by node-red-bluemix@0.5.0
+14 error missing: nano@~5.11.0, required by node-red-bluemix@0.5.0
+14 error missing: cfenv@~1.0.0, required by node-red-bluemix@0.5.0
+14 error missing: feedparser@~0.19.2, required by node-red-bluemix@0.5.0
+14 error missing: redis@~0.10.1, required by node-red-bluemix@0.5.0
+14 error missing: node-red@0.16, required by node-red-bluemix@0.5.0
+14 error missing: node-red-bluemix-nodes@1.x, required by node-red-bluemix@0.5.0
+14 error missing: node-red-node-watson@0.x, required by node-red-bluemix@0.5.0
+14 error missing: node-red-node-openwhisk@0.x, required by node-red-bluemix@0.5.0
+14 error missing: node-red-node-cf-cloudant@0.x, required by node-red-bluemix@0.5.0
+14 error missing: node-red-contrib-scx-ibmiotapp@0.x, required by node-red-bluemix@0.5.0
+14 error missing: node-red-contrib-ibmpush@0.x, required by node-red-bluemix@0.5.0
+14 error missing: node-red-contrib-bluemix-hdfs@0.x, required by node-red-bluemix@0.5.0
+14 error missing: node-red-nodes-cf-sqldb-dashdb@0.x, required by node-red-bluemix@0.5.0
+14 error missing: node-red-contrib-ui@1.x, required by node-red-bluemix@0.5.0
+14 error extraneous: accepts@1.3.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/accepts
+14 error extraneous: after@0.8.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/after
+14 error extraneous: arraybuffer.slice@0.0.6 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/arraybuffer.slice
+14 error extraneous: backo2@1.0.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/backo2
+14 error extraneous: base64-arraybuffer@0.1.5 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/base64-arraybuffer
+14 error extraneous: base64id@1.0.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/base64id
+14 error extraneous: better-assert@1.0.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/better-assert
+14 error extraneous: blob@0.0.4 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/blob
+14 error extraneous: callsite@1.0.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/callsite
+14 error extraneous: component-bind@1.0.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/component-bind
+14 error extraneous: component-emitter@1.1.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/component-emitter
+14 error extraneous: component-inherit@0.0.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/component-inherit
+14 error extraneous: cookie@0.3.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/cookie
+14 error extraneous: debug@2.6.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/debug
+14 error extraneous: depd@1.1.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/depd
+14 error extraneous: destroy@1.0.4 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/destroy
+14 error extraneous: ee-first@1.1.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/ee-first
+14 error extraneous: encodeurl@1.0.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/encodeurl
+14 error extraneous: engine.io@1.8.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/engine.io
+14 error extraneous: debug@2.3.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/engine.io/node_modules/debug
+14 error extraneous: engine.io-client@1.8.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/engine.io-client
+14 error extraneous: component-emitter@1.2.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/engine.io-client/node_modules/component-emitter
+14 error extraneous: debug@2.3.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/engine.io-client/node_modules/debug
+14 error extraneous: engine.io-parser@1.3.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/engine.io-parser
+14 error extraneous: escape-html@1.0.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/escape-html
+14 error extraneous: etag@1.8.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/etag
+14 error extraneous: fresh@0.5.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/fresh
+14 error extraneous: has-binary@0.1.7 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/has-binary
+14 error extraneous: has-cors@1.1.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/has-cors
+14 error extraneous: http-errors@1.6.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/http-errors
+14 error extraneous: indexof@0.0.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/indexof
+14 error extraneous: inherits@2.0.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/inherits
+14 error extraneous: isarray@0.0.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/isarray
+14 error extraneous: json3@3.3.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/json3
+14 error extraneous: mime@1.3.4 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/mime
+14 error extraneous: mime-db@1.27.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/mime-db
+14 error extraneous: mime-types@2.1.15 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/mime-types
+14 error extraneous: ms@0.7.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/ms
+14 error extraneous: negotiator@0.6.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/negotiator
+14 error extraneous: node-red-dashboard@2.3.6 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/node-red-dashboard
+14 error extraneous: object-assign@4.1.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/object-assign
+14 error extraneous: object-component@0.0.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/object-component
+14 error extraneous: on-finished@2.3.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/on-finished
+14 error extraneous: options@0.0.6 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/options
+14 error extraneous: parsejson@0.0.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/parsejson
+14 error extraneous: parseqs@0.0.5 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/parseqs
+14 error extraneous: parseuri@0.0.5 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/parseuri
+14 error extraneous: parseurl@1.3.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/parseurl
+14 error extraneous: range-parser@1.2.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/range-parser
+14 error extraneous: send@0.15.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/send
+14 error extraneous: serve-static@1.12.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/serve-static
+14 error extraneous: setprototypeof@1.0.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/setprototypeof
+14 error extraneous: socket.io@1.7.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io
+14 error extraneous: debug@2.3.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io/node_modules/debug
+14 error extraneous: socket.io-adapter@0.5.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-adapter
+14 error extraneous: debug@2.3.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-adapter/node_modules/debug
+14 error extraneous: socket.io-client@1.7.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-client
+14 error extraneous: component-emitter@1.2.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-client/node_modules/component-emitter
+14 error extraneous: debug@2.3.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-client/node_modules/debug
+14 error extraneous: socket.io-parser@2.3.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-parser
+14 error extraneous: debug@2.2.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-parser/node_modules/debug
+14 error extraneous: ms@0.7.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/socket.io-parser/node_modules/ms
+14 error extraneous: statuses@1.3.1 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/statuses
+14 error extraneous: to-array@0.1.4 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/to-array
+14 error extraneous: ultron@1.0.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/ultron
+14 error extraneous: ws@1.1.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/ws
+14 error extraneous: wtf-8@1.0.0 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/wtf-8
+14 error extraneous: xmlhttprequest-ssl@1.5.3 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/xmlhttprequest-ssl
+14 error extraneous: yeast@0.1.2 /Users/mauricezeitouni/Desktop/stubhub-services-node-red-dev-1478552236702/node_modules/yeast
+15 error If you need help, you may report this error at:
+15 error     <https://github.com/npm/npm/issues>
+16 verbose exit [ 1, true ]
